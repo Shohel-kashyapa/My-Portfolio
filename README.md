@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🚀 Animated Portfolio Website with Next.js, Framer Motion, and TypeScript
+Welcome to my animated portfolio website repository! This dynamic website showcases my skills, projects, and experiences in web development.
 
-## Getting Started
+Overview
+This portfolio website is built using Next.js, a React framework for building server-rendered and static web applications, along with Framer Motion for animations and transitions. TypeScript is used for static typing, providing improved developer experience and code reliability. Tailwind CSS is utilized for styling, allowing for rapid development with utility-first CSS classes.
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Key Features
+Interactive Interface: Enjoy a seamless browsing experience with smooth animations and transitions powered by Framer Motion.
+Project Showcase: Explore my projects and experiences showcased in an intuitive and visually appealing layout.
+Responsive Design: The website is fully responsive, ensuring optimal viewing experience across various devices and screen sizes.
+Technologies Used
+<div align="center">
+  <img src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="Next.js" width="100" height="100">
+  <img src="https://framer.com/static/framer-2021-social-logo-5f958f75ec70efbd75a086ea393b22a1.png" alt="Framer Motion" width="100" height="100">
+  <img src="https://www.typescriptlang.org/assets/images/icons/apple-touch-icon-180x180.png" alt="TypeScript" width="100" height="100">
+  <img src="https://tailwindcss.com/favicon-32x32.png" alt="Tailwind CSS" width="100" height="100">
+</div>
