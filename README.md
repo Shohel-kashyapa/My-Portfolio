@@ -1,4 +1,4 @@
-# 🚀 Portfolio Website with Next.js, Framer Motion, and TypeScript
+# 🚀 Portfolio Website with Next.js, TypeScript & Framer Motion
 Welcome to my portfolio website repository! This dynamic website showcases my skills, projects, and experiences in web development.
 
 ## Overview
