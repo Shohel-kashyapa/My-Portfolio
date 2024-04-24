@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffdd59a4-a3e9-45e5-998d-fa27d4059b93" name="Changes" comment="done hero">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/main/StarBackground.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/StarBackground.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +77,7 @@
       <workItem from="1713340004881" duration="49000" />
       <workItem from="1713873520580" duration="45000" />
       <workItem from="1713873601636" duration="344000" />
+      <workItem from="1713969428982" duration="90000" />
     </task>
     <task id="LOCAL-00001" summary="done hero tsx">
       <option name="closed" value="true" />
