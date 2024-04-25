@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ffdd59a4-a3e9-45e5-998d-fa27d4059b93" name="Changes" comment="done hero">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/main/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/Navbar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +53,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "D:\\MY-Projects\\my-portfolio\\My-Portfolio\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -88,6 +86,9 @@
       <workItem from="1713969428982" duration="90000" />
       <workItem from="1714038371812" duration="367000" />
       <workItem from="1714038754053" duration="574000" />
+      <workItem from="1714065544975" duration="699000" />
+      <workItem from="1714067435718" duration="141000" />
+      <workItem from="1714067587902" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="done hero tsx">
       <option name="closed" value="true" />
