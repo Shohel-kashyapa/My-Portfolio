@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffdd59a4-a3e9-45e5-998d-fa27d4059b93" name="Changes" comment="Footer done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/main/Navbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/main/Navbar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/sub/HeroContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/sub/HeroContent.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="ffdd59a4-a3e9-45e5-998d-fa27d4059b93" name="Changes" comment="Updateing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +86,7 @@
       <workItem from="1714038754053" duration="574000" />
       <workItem from="1714065544975" duration="699000" />
       <workItem from="1714067435718" duration="141000" />
-      <workItem from="1714067587902" duration="4207000" />
+      <workItem from="1714067587902" duration="4493000" />
     </task>
     <task id="LOCAL-00001" summary="done hero tsx">
       <option name="closed" value="true" />
@@ -132,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714069832412</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updateing">
+      <option name="closed" value="true" />
+      <created>1714071866535</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714071866535</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +158,7 @@
     <MESSAGE value="done hero" />
     <MESSAGE value="Footer V1" />
     <MESSAGE value="Footer done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Footer done" />
+    <MESSAGE value="Updateing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updateing" />
   </component>
 </project>
