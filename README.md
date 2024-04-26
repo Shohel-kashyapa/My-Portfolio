@@ -14,5 +14,3 @@ This portfolio website is built using Next.js, a React framework for building se
 ## Technologies Used
 -🌐 Next.js, React, TypeScript, Tailwind CSS, Framer Motion
 
-src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
