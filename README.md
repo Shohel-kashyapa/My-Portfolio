@@ -1,4 +1,4 @@
-# 🚀 Portfolio Website with Next.js, TypeScript & Framer Motion
+# 🚀 Portfolio Website Powered by Next.js, TypeScript, Tailwind & Framer Motion
 Welcome to my portfolio website repository! This dynamic website showcases my skills, projects, and experiences in web development.
 
 ## Overview
@@ -12,8 +12,6 @@ This portfolio website is built using Next.js, a React framework for building se
 -📱 Responsive Design: The website is fully responsive, ensuring optimal viewing experience across various devices and screen sizes.
 
 ## Technologies Used
--🌐 Front-End: Next.js, React, TypeScript, Framer Motion,
+-🌐 Next.js, React, TypeScript, Framer Motion
 
--🛠️ Styling: Tailwind CSS
 
--🚀 Deployment: 
