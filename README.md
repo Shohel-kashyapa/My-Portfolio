@@ -12,6 +12,5 @@ This portfolio website is built using Next.js, a React framework for building se
 -📱 Responsive Design: The website is fully responsive, ensuring optimal viewing experience across various devices and screen sizes.
 
 ## Technologies Used
--🌐 Next.js, React, TypeScript, Framer Motion
-
+-🌐 Next.js, React, TypeScript, Tailwind CSS, Framer Motion
 
