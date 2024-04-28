@@ -12,9 +12,9 @@ const Projects = () => {
         </h1>
         <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
           <ProjectCard
-              src="/NextWebsite.png"
-              title="Modern Next.js Portfolio"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              src="/Thechheaven.png"
+              title="ThechHeaven Website for Computer shop"
+              description="🛍️ E-Commerce Web Application Using HTML, CSS, JS, PHP, Ajax, MySql"
           />
           <ProjectCard
               src="/CardImage.png"
