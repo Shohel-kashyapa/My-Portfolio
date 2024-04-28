@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffdd59a4-a3e9-45e5-998d-fa27d4059b93" name="Changes" comment="Updateing" />
+    <list default="true" id="ffdd59a4-a3e9-45e5-998d-fa27d4059b93" name="Changes" comment="Add project cards">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +47,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/MY-Projects/my-portfolio/My-Portfolio/public",
+    "last_opened_file_path": "D:/MY-Projects/my-portfolio/My-Portfolio",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -87,6 +89,7 @@
       <workItem from="1714065544975" duration="699000" />
       <workItem from="1714067435718" duration="141000" />
       <workItem from="1714067587902" duration="4493000" />
+      <workItem from="1714239538203" duration="478000" />
     </task>
     <task id="LOCAL-00001" summary="done hero tsx">
       <option name="closed" value="true" />
@@ -136,7 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714071866535</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add project cards">
+      <option name="closed" value="true" />
+      <created>1714239611450</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1714239611450</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add project cards">
+      <option name="closed" value="true" />
+      <created>1714239691186</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1714239691186</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +178,7 @@
     <MESSAGE value="Footer V1" />
     <MESSAGE value="Footer done" />
     <MESSAGE value="Updateing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updateing" />
+    <MESSAGE value="Add project cards" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project cards" />
   </component>
 </project>
