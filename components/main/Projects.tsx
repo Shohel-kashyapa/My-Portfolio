@@ -17,9 +17,9 @@ const Projects = () => {
               description="🛍️ E-Commerce Web Application Using HTML, CSS, JS, PHP, Ajax, MySql"
           />
           <ProjectCard
-              src="/CardImage.png"
-              title="Interactive Website Cards"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              src="/Saga1.png"
+              title="Saga Music Instrument App"
+              description="🎵 Music instrument App using Android Studio, Java, Firebase"
           />
           <ProjectCard
               src="/SpaceWebsite.png"
