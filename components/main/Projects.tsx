@@ -24,7 +24,7 @@ const Projects = () => {
           <ProjectCard
               src="/SpaceWebsite.png"
               title="Space Themed Website"
-              description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+              description="Using Next.js, Tailwind CSS and Framer Motion"
           />
         </div>
       </div>
