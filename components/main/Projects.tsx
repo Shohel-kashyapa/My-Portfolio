@@ -26,6 +26,13 @@ const Projects = () => {
               title="Space Themed Portfolio Website"
               description="Using Next.js, Ts, Tailwind CSS and Framer Motion"
           />
+
+          <ProjectCard
+              src="/SpaceWebsite.png"
+              title="Space Themed Portfolio Website"
+              description="Using Next.js, Ts, Tailwind CSS and Framer Motion"
+          />
+
         </div>
       </div>
   );
